@@ -32,6 +32,6 @@ The finished map looks something like the photo below. It could change on a dail
 
 
 ## Contributors
-Earthquake.usgs.gov
-Leaflet's official documentation
-OpenStreetMap.org
+Earthquake.usgs.gov provided the underlying dataset
+Leaflet's official documentation provided assistance with creating the legend within the Javascript file, as well as the CSS style file
+OpenStreetMap.org provided the map tile
